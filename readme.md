@@ -24,15 +24,17 @@ and building projects with modern web technologies.
 
 ---
 
-## 📂 Projects
+## 📫 Connect with me
 
-Here you can find my projects and experiments while I'm learning
-and improving my development skills.
-
----
-
-## 📫 Contact
-
-Feel free to reach out if you'd like to connect!
+<p align="left">
+  <a href="https://t.me/aleksanyan_707">
+    <img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  
+  
+  <a href="mailto:aleksanyanmark777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 🇦🇲 Armenia
