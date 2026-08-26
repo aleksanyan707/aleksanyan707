@@ -15,10 +15,6 @@ and building projects with modern web technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksanyan707&show_icons=true&theme=default&hide_border=true)
-
 ## 🚀 About Me
 
 - 🌱 Currently improving my JavaScript and React skills
@@ -28,6 +24,15 @@ and building projects with modern web technologies.
 
 ---
 
+## 📂 Projects
+
+Here you can find my projects and experiments while I'm learning
+and improving my development skills.
+
+---
+
 ## 📫 Contact
 
 Feel free to reach out if you'd like to connect!
+
+🇦🇲 Armenia
