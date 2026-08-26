@@ -1,15 +1,15 @@
-<h2 data-importer="text" align="center">yo,what's up?</h2>
-
-###
-
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" src="https://i.pinimg.com/1200x/96/16/0c/96160cf49e1c0d3fb4a66a533278a808.jpg"  />
+  <img data-importer="image" height="300" src="https://i.pinimg.com/736x/51/e9/f5/51e9f56167e05d0be510e36ccdd68a75.jpg"  />
 </div>
 
 ###
 
+<h2 data-importer="text" align="center">What's up?</h2>
+
+###
+
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=just%20a%20border%20man.&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A9A9A9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A9A9A9"  />
 </div>
 
 ###
@@ -61,17 +61,17 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=just%20a%20border%20man.&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A9A9A9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A9A9A9"  />
 </div>
 
 ###
 
-<h2 data-importer="text" align="center">That's a my profile,here you can find contact with me.</h2>
+<h2 data-importer="text" align="center">I'm a junior developer,but for now I'm working outside of the field.<br>I have an excellent command of Russian and I'm actively improving my English.<br>I'm originally from Armenia and currently live in Yerevan.<br>I want to improve the quality of my work,gain experience qith  new company,and continue advancinq my career in this field.<br>You can find my contact information in my bio.</h2>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=just%20a%20border%20man.&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A9A9A9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A9A9A9"  />
 </div>
 
 ###
