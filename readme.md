@@ -17,7 +17,7 @@ and building projects with modern web technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksanyan707&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksanyan707&show_icons=true&theme=default&hide_border=true)
 
 ## 🚀 About Me
 
