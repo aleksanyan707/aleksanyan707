@@ -66,7 +66,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">I'm a junior developer,but for now I'm working outside of the field.<br>I have an excellent command of Russian and I'm actively improving my English.<br>I'm originally from Armenia and currently live in Yerevan.<br>I want to improve the quality of my work,gain experience qith  new company,and continue advancinq my career in this field.<br>You can find my contact information in my bio.</h2>
+<h2 data-importer="text" align="center">I'm a front-end junior developer,but for now I'm working outside of the field.<br>I have an excellent command of Russian and I'm actively improving my English.<br>I'm originally from Armenia and currently live in Yerevan.<br>I want to improve the quality of my work,gain experience qith  new company,and continue advancinq my career in this field.<br>You can find my contact information in my bio.</h2>
 
 ###
 
