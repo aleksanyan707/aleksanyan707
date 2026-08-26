@@ -9,12 +9,9 @@ and building projects with modern web technologies.
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Git
-- GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</p>
 
 ---
 
