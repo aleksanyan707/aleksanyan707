@@ -1,20 +1,29 @@
-👋 Hi, I'm Mark
-Junior Frontend Developer 🇦🇲
+# 👋 Hi, I'm Mark
 
-💻 JavaScript & React
-🎨 Building clean and responsive interfaces
+### Junior Frontend Developer 🇦🇲
+
+💻 JavaScript & React  
+🎨 Building clean and responsive interfaces  
 🌱 Always learning and improving
 
-🛠️ Tech Stack
-[ HTML ][ CSS ][ JS ][ React ][ Git ][ GitHub ]
+---
 
-🚀 About Me
-• Junior Frontend Developer from Armenia
-• Improving JavaScript & React
-• Building clean interfaces
-• Learning new technologies
-• Looking for real-world experience
-• Open to opportunities
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently improving my JavaScript and React skills
+- 💻 Building frontend projects
+- 📚 Always learning something new
+- 🎯 Looking for opportunities to grow as a developer
+
+---
 
 ## 📫 Connect with me
 
@@ -29,4 +38,5 @@ Junior Frontend Developer 🇦🇲
   </a>
 </p>
 
-🇦🇲 Armenia
+
+AM Armenia
