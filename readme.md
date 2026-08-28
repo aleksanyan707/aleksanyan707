@@ -2,8 +2,9 @@
 
 ### Junior Frontend Developer 🇦🇲
 
-I'm a junior frontend developer from Armenia, currently improving my skills
-and building projects with modern web technologies.
+💻 JavaScript & React  
+🎨 Building clean and responsive interfaces  
+🌱 Always learning and improving
 
 ---
 
