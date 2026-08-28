@@ -1,7 +1,7 @@
 # Wassup, my name is a Mark
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="300" src="https://i.pinimg.com/736x/2a/38/23/2a3823525e7125538928ae3d9345807c.jpg"  />
+  <img data-importer="image" height="300" src="https://imgur.com/a/RhcfxiY"  />
 </div>
 
 ### Junior Frontend Developer 🇦🇲
