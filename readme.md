@@ -18,9 +18,10 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my JavaScript and React skills
-- 💻 Building frontend projects
-- 📚 Always learning something new
+- 🌱 I’m a junior programmer, but for now I’m working outside the field.
+- 🪃 I’m originally from Armenia and currently live in Yerevan.
+- 💻 I want to improve the quality of my work, gain experience with a new company, and continue advancing my career in this field.
+- 📚 I have an excellent command of Russian and I’m actively improving my English.
 - 🎯 Looking for opportunities to grow as a developer
 
 ---
